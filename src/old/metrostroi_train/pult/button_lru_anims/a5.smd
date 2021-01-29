@@ -1,0 +1,11 @@
+// Created by Crowbar 0.71
+version 1
+nodes
+  0 "blender_implicit" -1
+  1 "button_large" -1
+end
+skeleton
+  time 0
+    0 0.000000 0.000000 0.000000 0.000000 0.000000 -0.000007
+    1 0.000000 0.000000 -0.164185 1.570784 0.000010 -0.000010
+end
